@@ -5,7 +5,7 @@ module.exports = {
     title: `cmichel`,
     author: 'Christoph Michel',
     description: `Christoph Michel's Blog.`,
-    siteUrl: 'https:/cmichel.io/',
+    siteUrl: 'http://stephendesin.info/',
     twitter: 'cmichelio',
     github: 'MrToph',
     medium: 'cmichel',
