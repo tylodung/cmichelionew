@@ -5,7 +5,7 @@ module.exports = {
     title: `cmichel`,
     author: 'Christoph Michel',
     description: `Christoph Michel's Blog.`,
-    siteUrl: 'https://pedantic.netlify.com/',
+    siteUrl: 'https://meohaycuame.net/',
     twitter: 'cmichelio',
     github: 'MrToph',
     medium: 'cmichel',
